@@ -1,0 +1,37 @@
+[
+    {
+        "packageType": "mobile",
+        "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/android_package.png",
+        "packageURL": "https://github.com/Walletika/walletika-web-fetch/raw/main/android/Walletika-v1.0-beta.apk"
+    },
+    {
+        "packageType": "mobile",
+        "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/google_store_disabled.png",
+        "packageURL": null
+    },
+    {
+        "packageType": "mobile",
+        "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/apple_store_disabled.png",
+        "packageURL": null
+    },
+    {
+        "packageType": "desktop",
+        "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/windows_package.png",
+        "packageURL": "https://github.com/Walletika/walletika-web-fetch/raw/main/windows/Walletika-v1.0-x64-beta.exe"
+    },
+    {
+        "packageType": "desktop",
+        "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/windows_store_disabled.png",
+        "packageURL": null
+    },
+    {
+        "packageType": "desktop",
+        "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/mac_store_disabled.png",
+        "packageURL": null
+    },
+    {
+        "packageType": "desktop",
+        "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/ubuntu_package_disabled.png",
+        "packageURL": null
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "id": "about",
+        "icon": "infoCircle",
+        "title": {
+            "en": "About Walletika",
+            "ar": "عن Walletika"
+        },
+        "desc": {
+            "en": "Everything you might want to know about Walletika.",
+            "ar": "كل ما قد تريد معرفته عن Walletika."
+        },
+        "arts": [
+            {
+                "id": "what-is-walletika",
+                "title": {
+                    "en": "What is Walletika?",
+                    "ar": "ما هي Walletika؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/what-is-walletika/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/what-is-walletika/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "what-is-keyless",
+                "title": {
+                    "en": "What is keyless mean?",
+                    "ar": "ماذا يعني بدون مفتاح؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/what-is-keyless/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/what-is-keyless/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-different-from-other",
+                "title": {
+                    "en": "How is Walletika different from other wallets?",
+                    "ar": "كيف تختلف Walletika عن المحافظ الأخرى؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-different-from-other/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-different-from-other/ar.md"
+                },
+                "date": 1686930394198
+            }
+        ]
+    },
+    {
+        "id": "guide",
+        "icon": "bookReader",
+        "title": {
+            "en": "How To ( Guides )",
+            "ar": "كيف (الدليل)"
+        },
+        "desc": {
+            "en": "Guides for using Walletika.",
+            "ar": "الدليل لاستخدام Walletika."
+        },
+        "arts": [
+            {
+                "id": "how-to-install",
+                "title": {
+                    "en": "How to install as a hot or cold wallet?",
+                    "ar": "كيفية التثبيت كمحفظة ساخنة أو باردة؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-install/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-install/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-create-wallet",
+                "title": {
+                    "en": "How to create a wallet or recover an existing wallet?",
+                    "ar": "كيفية إنشاء محفظة او استرداد محفظة موجوده بالفعل؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-create-wallet/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-create-wallet/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-setup-2fa",
+                "title": {
+                    "en": "How to setup two-factor authentication or recovery it?",
+                    "ar": "كيفية إعداد المصادقة الثنائية أو استردادها؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-setup-2fa/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-setup-2fa/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-add-network",
+                "title": {
+                    "en": "How to add and remove a blockchain network?",
+                    "ar": "كيفية إضافة وحذف شبكة بلوكتشين؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-add-network/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-add-network/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-add-token",
+                "title": {
+                    "en": "How to add and remove a token?",
+                    "ar": "كيفية إضافة وحذف توكن؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-add-token/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-add-token/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-receive",
+                "title": {
+                    "en": "How to receive my deposit amount?",
+                    "ar": "كيفية إستلام مبلغ الإيداع الخاص بي؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-receive/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-receive/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-send",
+                "title": {
+                    "en": "How to send a transaction to another wallet?",
+                    "ar": "كيفية إرسال معاملة إلى محفظة أخرى؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-send/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-send/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-show-private-key",
+                "title": {
+                    "en": "How to get my wallet private key?",
+                    "ar": "كيفية الحصول على المفتاح الخاص لمحفظتي؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-show-private-key/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-show-private-key/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-backup",
+                "title": {
+                    "en": "How to backup and import my wallets?",
+                    "ar": "كيفية عمل نسخة احتياطية من محافظي واستيرادها؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-backup/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-backup/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-stake",
+                "title": {
+                    "en": "How to stake, unstake and claim interest?",
+                    "ar": "كيفية التخزين وإلغاء التخزين والمطالبة بالعائد"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-stake/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-stake/ar.md"
+                },
+                "date": 1686930394198
+            }
+        ]
+    },
+    {
+        "id": "user-agreement",
+        "icon": "balanceScale",
+        "title": {
+            "en": "Confidentiality and User Agreement",
+            "ar": "السرية واتفاقية المستخدم"
+        },
+        "desc": {
+            "en": "Everything about our Privacy Policy and Terms of Service.",
+            "ar": "كل ما يتعلق بسياسة الخصوصية وشروط الخدمة الخاصة بنا."
+        },
+        "arts": [
+            {
+                "id": "privacy-policy",
+                "title": {
+                    "en": "Privacy Policy",
+                    "ar": "سياسة الخصوصية"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/privacy-policy/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/privacy-policy/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "terms-of-use",
+                "title": {
+                    "en": "Terms of Service",
+                    "ar": "شروط الخدمة"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/terms-of-use/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/terms-of-use/ar.md"
+                },
+                "date": 1686930394198
+            }
+        ]
+    }
+]
