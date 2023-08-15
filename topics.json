@@ -46,6 +46,18 @@
                     "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-different-from-other/ar.md"
                 },
                 "date": 1686930394198
+            },
+            {
+                "id": "whitepaper",
+                "title": {
+                    "en": "Walletika Whitepaper",
+                    "ar": "الورقة البيضاء لـ Walletika"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/whitepaper/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/whitepaper/ar.md"
+                },
+                "date": 1692099905465
             }
         ]
     },
