@@ -69,7 +69,7 @@
 11. Adopting and funding projects that provide real value for developing the crypto industry through dedicated programs.
 
 
-## Walletika Token Features
+## Walletika token features
 1. Without inflation or mint function.
 2. 100% decentralized and transactions cannot be controlled such as freezing wallets or balances.
 3. The maximum total supply is 100,000,000 WTK.
@@ -86,7 +86,7 @@
 > Walletika team strives to create and innovate many use cases that make WTK token a safe and easy means of payment between people.
 
 
-## Walletika Token Distribution Plan According to The Total Supply
+## Walletika token distribution plan according to the total supply
 ### The percentages were distributed based on our own vision that would provide the maximum benefit for investors primarily.
 1. 30% reserve liquidity for Staking services, 20% locked for a year.
 2. 15% for the team, 10% locked for a year.
@@ -96,11 +96,11 @@
 6. 13% liquidity for centralized and decentralized exchanges.
 
 
-## Private Sale Price Plan
+## Private sale price plan
 The private sale will start in November 2023, which targets selling 5,000,000 WTK at $0.02 USD per token to raise $100,000 USD to fund marketing and development operations that serve the pre-sale stage.
 
 
-## Pre-sale Price Plan and Start Trading
+## Pre-sale price plan and start trading
 The pre-sale will start in March 2024, which targets selling 35,000,000 WTK in 5 stages at an average price of $0.12 USD per token to raise an equivalent of $4,000,000 USD to pump dollar liquidity for centralized and decentralized exchanges against 13,000,000 WTK and start trading at a price of $0.30 USD.
 > Note: We understand that some may see the period between the private sale and the pre-sale (4 months) relatively long, but according to our estimate, we need enough time to reach the largest number of users and investors to ensure the success of our operations and we hope you also understand that.
 
