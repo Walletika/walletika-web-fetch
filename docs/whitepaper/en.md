@@ -96,7 +96,7 @@ The soft private sale has started since we start to building the project, which 
 > Note: All the people who invest in this stage will get 50% extra.
 
 ## Master private sale price plan
-The private sale will start in November 2023, which targets selling 4,500,000 WTK at $0.02 USD per token to raise $90,000 USD to fund big marketing and development operations that serve the pre-sale stage.
+The master private sale will start in November 2023, which targets selling 4,500,000 WTK at $0.02 USD per token to raise $90,000 USD to fund big marketing and development operations that serve the pre-sale stage.
 
 ## Pre-sale price plan and start trading
 The pre-sale will start in March 2024, which targets selling 35,000,000 WTK in 5 stages at an average price of $0.12 USD per token to raise an equivalent of $4,000,000 USD to pump dollar liquidity for centralized and decentralized exchanges against 13,000,000 WTK and start trading at a price of $0.30 USD.
