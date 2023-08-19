@@ -37,7 +37,6 @@
 7. The ability to backup all wallets to an encrypted external file that can be imported to ensure data security and easy recovery at any time.
 8. All confidential data is encrypted in memory (RAM), making it safe and immune to manipulation or theft by malicious software.
 
-
 ## Features of the first version of Walletika app (2023)
 1. Supports Ethereum blockchain network and all networks derived from it or known as layer two networks.
 2. Creating multiple wallets that work with a decentralized login system without the need for a private key.
@@ -54,7 +53,6 @@
 13. The application has a modern and clean user interface with two elegant designs for both light and dark modes.
 14. The application has a responsive, organized, simple and easy-to-use design.
 
-
 ## Our roadmap for the next three years (2024 - 2027)
 1. Providing wallets that work with fingerprint and face ID to be easier and more secure.
 2. Adding all other blockchains of type layer one such as Bitcoin, Cardano, Ripple, Solana and others.
@@ -68,14 +66,12 @@
 10. Providing MasterCard credit card system for cash withdrawal and deposit using ATM machine.
 11. Adopting and funding projects that provide real value for developing the crypto industry through dedicated programs.
 
-
 ## Walletika token features
 1. Without inflation or mint function.
 2. 100% decentralized and transactions cannot be controlled such as freezing wallets or balances.
 3. The maximum total supply is 100,000,000 WTK.
 4. The circulating supply is 70% of the total supply, the remaining 30% is allocated as a reserve liquidity for the annual interest of the Staking system.
 5. The Staking system is funded through Walletika's paid services such as the fee collection system.
-
 
 ## Use cases of Walletika token
 1. Works as a financing system.
@@ -85,25 +81,26 @@
 5. It is used in the online payment system that serves our partners such as online stores, games and others.
 > Walletika team strives to create and innovate many use cases that make WTK token a safe and easy means of payment between people.
 
-
 ## Walletika token distribution plan according to the total supply
 ### The percentages were distributed based on our own vision that would provide the maximum benefit for investors primarily.
 1. 30% reserve liquidity for Staking services, 20% locked for a year.
 2. 15% for the team, 10% locked for a year.
 3. 2% for marketing strategies such as affiliate system, giveaway and airdrop.
-4. 5% for private sale to fund project launch.
-5. 35% for pre-sale to fund dollar liquidity for trading.
-6. 13% liquidity for centralized and decentralized exchanges.
+4. 0.5% for soft preivate sale to fund the project development.
+5. 4.5% for master private sale to fund the project launch.
+6. 35% for pre-sale to fund dollar liquidity for trading.
+7. 13% liquidity for centralized and decentralized exchanges.
 
+## Soft private sale price plan
+The soft private sale has started since we start to building the project, which targets selling 500,000 WTK at $0.02 USD per token to raise $10,000 to fund small marketing and development operations.
+> Note: All the people who invest in this stage will get 50% extra.
 
-## Private sale price plan
-The private sale will start in November 2023, which targets selling 5,000,000 WTK at $0.02 USD per token to raise $100,000 USD to fund marketing and development operations that serve the pre-sale stage.
-
+## Master private sale price plan
+The private sale will start in November 2023, which targets selling 4,500,000 WTK at $0.02 USD per token to raise $90,000 USD to fund big marketing and development operations that serve the pre-sale stage.
 
 ## Pre-sale price plan and start trading
 The pre-sale will start in March 2024, which targets selling 35,000,000 WTK in 5 stages at an average price of $0.12 USD per token to raise an equivalent of $4,000,000 USD to pump dollar liquidity for centralized and decentralized exchanges against 13,000,000 WTK and start trading at a price of $0.30 USD.
 > Note: We understand that some may see the period between the private sale and the pre-sale (4 months) relatively long, but according to our estimate, we need enough time to reach the largest number of users and investors to ensure the success of our operations and we hope you also understand that.
-
 
 ## In conclusion
 We hope that everyone support us to work together to accomplish this great project and make it one of the most successful projects that aim to provide the best services for crypto users around the world and we promise you to do our best in development processes. and we will welcome all questions and suggestions about Walletika.
