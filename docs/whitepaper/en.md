@@ -86,7 +86,7 @@
 1. 30% reserve liquidity for Staking services, 20% locked for a year.
 2. 15% for the team, 10% locked for a year.
 3. 2% for marketing strategies such as affiliate system, giveaway and airdrop.
-4. 0.5% for soft preivate sale to fund the project development.
+4. 0.5% for soft private sale to fund the project development.
 5. 4.5% for master private sale to fund the project launch.
 6. 35% for pre-sale to fund dollar liquidity for trading.
 7. 13% liquidity for centralized and decentralized exchanges.
