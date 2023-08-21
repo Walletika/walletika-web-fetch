@@ -2,7 +2,7 @@
 
 ### للتثبيت، اتبع هذه الخطوات البسيطة أدناه
 
-1. [تنزيل](https://walletika-beta.web.app/download) مثبت Walletika لنظام التشغيل الخاص بك.
+1. [تنزيل](https://walletika.github.io/#/download) مثبت Walletika لنظام التشغيل الخاص بك.
 2. قم بتشغيل المثبت لبدء التثبيت.
 >![](https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-install/images/1.png)
 3. حدد دليلاً، يجب عليك تحديد محرك USB الخاص بك في حال كنت تريد محفظة باردة، ثم انقر فوق "التالي".

@@ -4,7 +4,7 @@
 >![](https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-create-wallet/images/1.jpg)
 
 2. أدخل معلومات محفظتك بما يلي:
-     - أدخل اسم المستخدم فهو معرّف لمحفظتك، وكن على علم أنها حساسة لأحرفها.
+     - أدخل اسم المستخدم فهو معرّف لمحفظتك.
      - أدخل كلمة مرور، ستستخدمها لتسجيل الدخول.
      - قم بتأكيد كلمة المرور الخاصة بك مرة أخرى.
      - أدخل كلمة مرور الأمان ويجب أن تكون مختلفة عن كلمة مرور تسجيل الدخول الخاصة بك، ستستخدمها في حالات التحقق مثل استرداد 2FA.
@@ -13,11 +13,11 @@
 
 >![](https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-create-wallet/images/2.jpg)
 
-3. اقرأ إرشادات الأمان بعناية، ثم انقر فوق الزر ["متابعة إلى إعداد 2FA"](https://walletika-beta.web.app/documents/guide/how-to-setup-2fa).
+3. اقرأ إرشادات الأمان بعناية، ثم انقر فوق الزر ["متابعة إلى إعداد 2FA"](https://walletika.github.io/#/documents/guide/how-to-setup-2fa).
 >![](https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-create-wallet/images/3.jpg)
 
 ## نصائح مهمة:
-> - جميع معلومات محفظتك حساسة للأحرف.
-> - يجب عليك استخدام نفس معلومات المحفظة لإضافتها لاحقًا.
+> - كلمات مرور المحفظة حساسة للأحرف.
 > - لا تشارك كلمات مرور محفظتك أو المفتاح الخاص مع أي شخص.
+> - يجب عليك استخدام نفس معلومات المحفظة لإضافتها لاحقًا.
 > - لا نقوم بتخزين معلومات الوصول الخاصة بك في أي مكان.

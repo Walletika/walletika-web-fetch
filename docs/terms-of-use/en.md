@@ -1,4 +1,4 @@
-Walletika Platform, Inc. and/or its affiliates (“we,” “our,” or “us”) provides its software services through its website located at [walletika-beta.web.app](https://walletika-beta.web.app) and related mobile applications and products (collectively the “Services” or “Walletika”).
+Walletika Platform, Inc. and/or its affiliates (“we,” “our,” or “us”) provides its software services through its website located at [walletika.github.io](https://walletika.github.io) and related mobile applications and products (collectively the “Services” or “Walletika”).
 Before using our Services, please read the Terms of Service (the “Terms”) carefully, along with any other policies or notices on our website or mobile applications.
 
 ## AGREEMENT TO TERMS
@@ -11,7 +11,7 @@ By accessing or using any or all of the Services, you expressly acknowledge that
 If You do not agree to be bound by these Terms or any updates or modifications to these Terms, you may not access or use our Services.
 
 ## PRIVACY POLICY
-- For an explanation of how we collect, use and disclose information from our users, please see our Privacy Policy : https://walletika-beta.web.app/documents/user-agreement/privacy-policy.
+- For an explanation of how we collect, use and disclose information from our users, please see our Privacy Policy : https://walletika.github.io/#/documents/user-agreement/privacy-policy.
 - You acknowledge and agree that your use of the Services is subject to our Privacy Policy.
 
 ## ELIGIBILITY
