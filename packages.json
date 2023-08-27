@@ -2,7 +2,7 @@
     {
         "packageType": "mobile",
         "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/android_package.png",
-        "packageURL": "https://github.com/Walletika/walletika-web-fetch/raw/main/android/Walletika-v1.2.0-beta.apk"
+        "packageURL": "https://github.com/Walletika/walletika-web-fetch/raw/main/android/Walletika-v1.3.0-beta.apk"
     },
     {
         "packageType": "mobile",
@@ -17,7 +17,7 @@
     {
         "packageType": "desktop",
         "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/windows_package.png",
-        "packageURL": "https://github.com/Walletika/walletika-web-fetch/raw/main/windows/Walletika-v1.2.0-x64-beta.exe"
+        "packageURL": "https://github.com/Walletika/walletika-web-fetch/raw/main/windows/Walletika-v1.3.0-x64-beta.exe"
     },
     {
         "packageType": "desktop",
