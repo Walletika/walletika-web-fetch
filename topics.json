@@ -51,7 +51,7 @@
                 "id": "whitepaper",
                 "title": {
                     "en": "Walletika whitepaper",
-                    "ar": "الورقة البيضاء لـ Walletika"
+                    "ar": "المستند التقني لـ Walletika"
                 },
                 "content": {
                     "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/whitepaper/en.md",
