@@ -88,7 +88,7 @@
 3. 4.5% Master private sale to fund the project launch.
 4. 13% Liquidity for CEX and DEX listing.
 5. 30% reserve liquidity for Staking services, 20% locked for a year.
-6. 17% Team and marketing strategies, 10% locked for a year.
+6. 17% Team share and marketing strategies, 10% locked for a year.
 
 ## Soft private sale price plan
 The soft private sale has started since we start to building the project, which targets selling 500,000 WTK at 0.02 USD per token to raise 10,000 USD to fund small marketing and development operations.
@@ -104,5 +104,5 @@ The pre-sale will start in March 2024, which targets selling 35,000,000 WTK in 5
 ## In conclusion
 We are excited to work together to accomplish this great project and make it one of the most successful projects that aim to provide the best services for crypto users around the world and we promise you to do our best in development processes. and we will welcome all questions and suggestions about Walletika.
 
-Best Regards,
+Best Regards,\
 Walletika Team
