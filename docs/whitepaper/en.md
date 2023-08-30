@@ -67,29 +67,28 @@
 11. Adopting and funding projects that provide real value for developing the crypto industry through dedicated programs.
 
 ## Walletika token features
-1. No inflation, No mint function.
+1. No mint function, which ensures no inflation and makes it a low-risk token.
 2. 100,000,000 WTK maximum supply.
 3. 70,000,000 WTK initial circulating supply.
-4. Recyclable for financing the staking services.
+4. Recyclable by collecting it against Walletika's paid services and refinancing it into staking services again.
 5. 100% decentralized and transactions cannot be controlled such as freezing wallets or balances.
 
 ## Walletika token use cases
 1. Works as a financing system.
 2. Works as an investment system for investors looking for profitable opportunities.
-3. It is uses in the Staking services that provides annual interest on various pairs.
-4. It is uses to pay fees for Walletika's paid services such as wallet name registration, inheritance system and others.
-5. It is uses in the online payment system that serves our partners such as online stores, games and others.
+3. Uses in the Staking services that provides annual interest on various pairs.
+4. Uses to pay fees for Walletika's paid services such as wallet name registration, inheritance system and others.
+5. Uses in the online payment system that serves our partners such as online stores, games and others.
 > Walletika team strives to create and innovate many use cases that make WTK token a safe and easy means of payment between people.
 
 ## Walletika token distribution plan according to the total supply
 ### The percentages were distributed based on our own vision that would provide the maximum benefit for investors primarily.
-1. 30% reserve liquidity for Staking services, 20% locked for a year.
-2. 15% for the team, 10% locked for a year.
-3. 2% for marketing strategies such as affiliate system, giveaway and airdrop.
-4. 0.5% for soft private sale to fund the project development.
-5. 4.5% for master private sale to fund the project launch.
-6. 35% for pre-sale to fund dollar liquidity for trading.
-7. 13% liquidity for centralized and decentralized exchanges.
+1. 35% Pre-sale to fund trading liquidity.
+2. 0.5% Soft private sale to fund the project development.
+3. 4.5% Master private sale to fund the project launch.
+4. 13% Liquidity for CEX and DEX listing.
+5. 30% reserve liquidity for Staking services, 20% locked for a year.
+6. 17% Team and marketing strategies, 10% locked for a year.
 
 ## Soft private sale price plan
 The soft private sale has started since we start to building the project, which targets selling 500,000 WTK at 0.02 USD per token to raise 10,000 USD to fund small marketing and development operations.
@@ -99,10 +98,11 @@ The soft private sale has started since we start to building the project, which 
 The master private sale will start in November 2023, which targets selling 4,500,000 WTK at 0.02 USD per token to raise 90,000 USD to fund big marketing and development operations that serve the pre-sale stage.
 
 ## Pre-sale price plan and start trading
-The pre-sale will start in March 2024, which targets selling 35,000,000 WTK in 5 stages at an average price of 0.12 USD per token to raise an equivalent of 4,000,000 USD to pump dollar liquidity for centralized and decentralized exchanges against 13,000,000 WTK and start trading at a price of 0.30 USD.
+The pre-sale will start in March 2024, which targets selling 35,000,000 WTK in 5 stages at an average price of 0.12 USD per token to raise an equivalent of 4,000,000 USD to pump the liquidity for centralized and decentralized exchanges against 13,000,000 WTK and start trading at a price of 0.30 USD.
 > Note: We understand that some may see the period between the private sale and the pre-sale (4 months) relatively long, but according to our estimate, we need enough time to reach the largest number of users and investors to ensure the success of our operations and we hope you also understand that.
 
 ## In conclusion
-We hope that everyone support us to work together to accomplish this great project and make it one of the most successful projects that aim to provide the best services for crypto users around the world and we promise you to do our best in development processes. and we will welcome all questions and suggestions about Walletika.
+We are excited to work together to accomplish this great project and make it one of the most successful projects that aim to provide the best services for crypto users around the world and we promise you to do our best in development processes. and we will welcome all questions and suggestions about Walletika.
 
-Best Regards, Walletika Team
+Best Regards,
+Walletika Team
