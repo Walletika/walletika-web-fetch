@@ -1,0 +1,62 @@
+{
+  "privateSale": [
+    {
+      "startTime": 1693526400000,
+      "endTime": 1696118399000,
+      "tokens": 500000,
+      "sold": 263000,
+      "price": 0.02,
+      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+    },
+    {
+      "startTime": 1700006400000,
+      "endTime": 1701388799000,
+      "tokens": 4500000,
+      "sold": 0,
+      "price": 0.02,
+      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+    }
+  ],
+  "presale": [
+    {
+      "startTime": 1709251200000,
+      "endTime": 1709683199000,
+      "tokens": 7000000,
+      "sold": 0,
+      "price": 0.1,
+      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+    },
+    {
+      "startTime": 1709683200000,
+      "endTime": 1710115199000,
+      "tokens": 7000000,
+      "sold": 0,
+      "price": 0.11,
+      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+    },
+    {
+      "startTime": 1710115200000,
+      "endTime": 1710547199000,
+      "tokens": 7000000,
+      "sold": 0,
+      "price": 0.12,
+      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+    },
+    {
+      "startTime": 1710547200000,
+      "endTime": 1710979199000,
+      "tokens": 7000000,
+      "sold": 0,
+      "price": 0.13,
+      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+    },
+    {
+      "startTime": 1710979200000,
+      "endTime": 1711497599000,
+      "tokens": 7000000,
+      "sold": 0,
+      "price": 0.14,
+      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+    }
+  ]
+}
