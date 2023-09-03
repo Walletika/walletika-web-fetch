@@ -6,15 +6,15 @@
       "tokens": 500000,
       "sold": 263000,
       "price": 0.02,
-      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+      "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
-      "startTime": 1700006400000,
-      "endTime": 1701388799000,
+      "startTime": 1693526400000,
+      "endTime": 1696118399000,
       "tokens": 4500000,
       "sold": 0,
       "price": 0.02,
-      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+      "url": "https://t.me/walletikacommunity"
     }
   ],
   "presale": [
@@ -24,7 +24,7 @@
       "tokens": 7000000,
       "sold": 0,
       "price": 0.1,
-      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+      "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
       "startTime": 1709683200000,
@@ -32,7 +32,7 @@
       "tokens": 7000000,
       "sold": 0,
       "price": 0.11,
-      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+      "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
       "startTime": 1710115200000,
@@ -40,7 +40,7 @@
       "tokens": 7000000,
       "sold": 0,
       "price": 0.12,
-      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+      "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
       "startTime": 1710547200000,
@@ -48,7 +48,7 @@
       "tokens": 7000000,
       "sold": 0,
       "price": 0.13,
-      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+      "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
       "startTime": 1710979200000,
@@ -56,7 +56,7 @@
       "tokens": 7000000,
       "sold": 0,
       "price": 0.14,
-      "address": "0x91C90934Ffab309667D3Ef846E854Ac138060A13"
+      "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     }
   ]
 }
