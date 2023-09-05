@@ -1,16 +1,15 @@
-# Walletika distributes 30,000 USDT!
+# Walletika Distributes 30,000 USDT!
 
-This compition is for everyone who has a cryptocurrency community such us Telegram group, YouTube channel or Twitter account, all you can do is talk and let your community know about Walletika, it's very simple!
+Walletika is excited to announce a competition for everyone who has a crypto community like Telegram groups, YouTube channels or Twitter accounts. Simply talking about Walletika to your community and you could be eligible for rewards!
 
-## How to Join?
-- Send a direct message to our [Twitter account](https://twitter.com/WalletikaApp) to reguster on the marketers list.
-- Send all your posts or videos to show your support for us with your community.
+## How to Participate?
+- To register for the competition, send a direct message to our [Twitter account](https://twitter.com/WalletikaApp).
+- Follow our Twitter and join the Telegram group.
+- Send us your posts or videos promoting Walletika with your community as a proof of your support.
 
+## Rewards
+- Rewards range from 50 USDT to 3,000 USDT maximum.
+- The value of each reward is determined by the participant’s level of support and diligence in promoting Walletika.
+- Once the presale is complete, rewards will be distributed to all eligible participants on our marketers list.
 
-## Rewards Distribution
-- The maximum reward is 3,000 USDT, the minimum is 50 USDT.
-- The value of the reward depends on each person’s diligence and the extent of their support for us.
-- After the presale is complete, we will distribute the rewards to everyone who has joined our marketers list.
-
-
-> Warning : We will exclude anyone with a fake bot community, do not try to use this.
+> Please note: Participants found to have fake or bot communities will be excluded from the competition. We ask that all participants act with integrity and honesty.
