@@ -196,6 +196,32 @@
         ]
     },
     {
+        "id": "collaborations",
+        "icon": "infoCircle",
+        "title": {
+            "en": "Collaborations",
+            "ar": "التعاونات"
+        },
+        "desc": {
+            "en": "Everything related to collaborations and partnerships.",
+            "ar": "كل ما يتعلق بالتعاون والشراكات."
+        },
+        "arts": [
+            {
+                "id": "marketers-list",
+                "title": {
+                    "en": "Join our Marketers list",
+                    "ar": "انضم إلى قائمة المسوقين لدينا"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/marketers-list/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/marketers-list/ar.md"
+                },
+                "date": 1686930394198
+            }
+        ]
+    },
+    {
         "id": "user-agreement",
         "icon": "balanceScale",
         "title": {
