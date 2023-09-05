@@ -197,7 +197,7 @@
     },
     {
         "id": "collaborations",
-        "icon": "infoCircle",
+        "icon": "handshake",
         "title": {
             "en": "Collaborations",
             "ar": "التعاونات"
@@ -210,14 +210,14 @@
             {
                 "id": "marketers-list",
                 "title": {
-                    "en": "Join our Marketers list",
+                    "en": "Join our marketers list",
                     "ar": "انضم إلى قائمة المسوقين لدينا"
                 },
                 "content": {
                     "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/marketers-list/en.md",
                     "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/marketers-list/ar.md"
                 },
-                "date": 1686930394198
+                "date": 1693928868409
             }
         ]
     },
