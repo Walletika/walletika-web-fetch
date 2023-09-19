@@ -83,12 +83,13 @@
 
 ## Walletika token distribution plan according to the total supply
 ### The percentages were distributed based on our own vision that would provide the maximum benefit for investors primarily.
-1. 35% Pre-sale to fund trading liquidity.
-2. 0.5% Soft private sale to fund the project development.
-3. 4.5% Master private sale to fund the project launch.
-4. 13% Liquidity for CEX and DEX listing.
-5. 30% reserve liquidity for Staking services, 20% locked for a year.
-6. 17% Team share and marketing strategies, 10% locked for a year.
+1. 35% Presale.
+2. 0.5% Soft private sale.
+4. 2% Master private sale.
+3. 2.5% SCO Partnership.
+5. 13% CEX and DEX listing.
+6. 30% Staking LP.
+7. 17% Team and marketing strategies.
 
 ## Soft private sale price plan
 The soft private sale has started since we start to building the project, which targets selling 500,000 WTK at 0.02 USD per token to raise 10,000 USD to fund small marketing and development operations.
