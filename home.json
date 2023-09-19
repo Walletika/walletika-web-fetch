@@ -1,0 +1,71 @@
+{
+    "teamMembers": [
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/mahmoud_picture.jpg",
+            "name": "Mahmoud Khalid",
+            "description": {
+                "en": "The CEO and a software engineer with +8 years of software development experience and projects management.",
+                "ar": "الرئيس التنفيذي ومهندس برمجيات يتمتع بخبرة تزيد عن 8 سنوات في تطوير البرمجيات وإدارة المشاريع."
+            },
+            "telegram": "https://t.me/WalletikaCEO",
+            "twitter": "https://twitter.com/MahmoudKEA",
+            "linkedin": "https://www.linkedin.com/in/MahmoudKEA",
+            "github": "https://github.com/MahmoudKhalid"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/william_picture.jpg",
+            "name": "William Noah",
+            "description": {
+                "en": "The CFO with extensive experience working with enterprises.",
+                "ar": "المدير المالي وصحاب خبرة واسعة في العمل مع المؤسسات."
+            },
+            "telegram": "https://t.me/WilliamDeveloper"
+        }
+    ],
+    "partners": [
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/binance.png",
+            "name": "Binance"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/coinbase.png",
+            "name": "Coinbase"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/Cryptocom.jpg",
+            "name": "Crypto.com"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/gateio.png",
+            "name": "Gate.io"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/okx.jpg",
+            "name": "OKX"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/huobi.png",
+            "name": "Huobi"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/nuls.jpg",
+            "name": "NULS"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/pancakeswap.png",
+            "name": "PancakeSwap"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/uniswap.jpg",
+            "name": "Uniswap"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/coinmarketcap.png",
+            "name": "CoinMarketCap"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/coingecko.png",
+            "name": "CoinGecko"
+        }
+    ]
+}
