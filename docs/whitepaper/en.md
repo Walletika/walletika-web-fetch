@@ -8,22 +8,22 @@
 
 ## The problems that Walletika seeks to solve
 ### Crypto users around the world face some problems as follows:
-1- **Loss of Private Key** : The private key for a crypto wallet is one of the most important factors for protecting the digital assets it contains, and due to the impossibility of memorizing it mentally, many users resort to saving it in a text file on their own devices, which exposes them to theft or loss for various reasons.\
+1. **Loss of Private Key** : The private key for a crypto wallet is one of the most important factors for protecting the digital assets it contains, and due to the impossibility of memorizing it mentally, many users resort to saving it in a text file on their own devices, which exposes them to theft or loss for various reasons.\
 **Solution** : Walletika provides a unique solution that ensures no need to use the private key anymore and replace it with a decentralized login system that contains two passwords, and no transactions can be made without confirming the two-factor authentication code that changes every 30 seconds, as well as no private keys or passwords are stored anywhere to ensure the highest level of security.
 
-2- **Risks of Third-Party Apps** : Crypto users are exposed to many attempts of theft through untrusted third-party apps, which makes beginners and even professionals may lose their money at any moment.\
+2. **Risks of Third-Party Apps** : Crypto users are exposed to many attempts of theft through untrusted third-party apps, which makes beginners and even professionals may lose their money at any moment.\
 **Solution** : Walletika app works as a closed unit by not interacting with third-party apps, which ensures not being exposed to such security threats.
 
-3- **Multiple Blockchains** : In the world of crypto, there are many different blockchains and this leads to allocating a wallet app for each network, which makes users have to create multiple wallets, which leads to dispersion and increased pressure, especially in terms of securing many private keys.\
+3. **Multiple Blockchains** : In the world of crypto, there are many different blockchains and this leads to allocating a wallet app for each network, which makes users have to create multiple wallets, which leads to dispersion and increased pressure, especially in terms of securing many private keys.\
 **Solution** : Walletika app provides multiple blockchains in one place, giving users greater ease in accessing a wide range of digital assets without having to create multiple wallets on different apps.
 
-4- **Sending to The Wrong Address** : Many crypto users face the problem of sending to a wrong address due to the length of the address characters, which may make it difficult to notice any change or even replace the address due to malicious software.\
+4. **Sending to The Wrong Address** : Many crypto users face the problem of sending to a wrong address due to the length of the address characters, which may make it difficult to notice any change or even replace the address due to malicious software.\
 **Solution** : Walletika seeks to provide a system for registering wallet addresses names that links each wallet address with a custom name that is used in transactions instead of the wallet address directly, which avoids exposing the user to such a common problem.
 
-5- **Death Cases** : Since only one person owns the private key for a crypto wallet, it would be disastrous when the wallet owner dies suddenly, as the family may lose their own fortune forever.\
+5. **Death Cases** : Since only one person owns the private key for a crypto wallet, it would be disastrous when the wallet owner dies suddenly, as the family may lose their own fortune forever.\
 **Solution** : Walletika seeks to provide a decentralized inheritance system dedicated for such cases, which ensures transferring money from the deceased's wallet to family wallets based on the plan set by the deceased before his death according to conditions that ensure secure execution of operations.
 
-6- **Getting Cash** : Crypto users around the world face some difficulties in converting their cryptocurrencies into cash, especially in emergencies.\
+6. **Getting Cash** : Crypto users around the world face some difficulties in converting their cryptocurrencies into cash, especially in emergencies.\
 **Solution** : Walletika seeks to provide a secure and decentralized system for buying and selling digital currencies for cash between people directly and also providing MasterCard credit cards that can be used through any ATM.
 
 ## Walletika's security and safety procedures
