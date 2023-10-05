@@ -2,16 +2,16 @@
   "privateSale": [
     {
       "startTime": 1695168000000,
-      "endTime": 1696118399000,
-      "tokens": 500000,
-      "sold": 263000,
+      "endTime": 1696550399000,
+      "tokens": 278297,
+      "sold": 278297,
       "price": 0.02,
       "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
       "startTime": 1700006400000,
       "endTime": 1701388799000,
-      "tokens": 2000000,
+      "tokens": 2221703,
       "sold": 0,
       "price": 0.04,
       "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
