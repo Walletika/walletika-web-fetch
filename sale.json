@@ -23,7 +23,7 @@
       "endTime": 1709683199000,
       "tokens": 7000000,
       "sold": 0,
-      "price": 0.1,
+      "price": 0.10,
       "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
@@ -31,7 +31,7 @@
       "endTime": 1710115199000,
       "tokens": 7000000,
       "sold": 0,
-      "price": 0.11,
+      "price": 0.102,
       "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
@@ -39,7 +39,7 @@
       "endTime": 1710547199000,
       "tokens": 7000000,
       "sold": 0,
-      "price": 0.12,
+      "price": 0.104,
       "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
@@ -47,7 +47,7 @@
       "endTime": 1710979199000,
       "tokens": 7000000,
       "sold": 0,
-      "price": 0.13,
+      "price": 0.106,
       "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
@@ -55,7 +55,7 @@
       "endTime": 1711497599000,
       "tokens": 7000000,
       "sold": 0,
-      "price": 0.14,
+      "price": 0.108,
       "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     }
   ]
