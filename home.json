@@ -48,6 +48,10 @@
             "name": "Huobi"
         },
         {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/bitgert.png",
+            "name": "Bitgert"
+        },
+        {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/nuls.jpg",
             "name": "NULS"
         },
@@ -56,7 +60,7 @@
             "name": "PancakeSwap"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/uniswap.jpg",
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/uniswap.png",
             "name": "Uniswap"
         },
         {
