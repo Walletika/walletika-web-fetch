@@ -2,7 +2,7 @@ One way to install Walletika app as a hot and cold wallet, the difference is, fo
 
 ### To install, follow these simple steps below
 
-1. [Download](https://walletika.github.io/#/download) Walletika installer for your operating system.
+1. [Download](https://walletika.io/download) Walletika installer for your operating system.
 2. Run the installer to start installation.
 > ![](https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-install/images/1.png)
 3. Select the location, you should select your USB drive in case you want a cold wallet, then click “Next”.

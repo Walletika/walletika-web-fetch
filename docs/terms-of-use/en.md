@@ -1,4 +1,4 @@
-Walletika Platform, Inc. and/or its affiliates (“we,” “our,” or “us”) provides its software services through its website located at [walletika.github.io](https://walletika.github.io) and related mobile applications and products (collectively the “Services” or “Walletika”).
+Walletika Platform, Inc. and/or its affiliates (“we,” “our,” or “us”) provides its software services through its website located at [walletika.io](https://walletika.io) and related mobile applications and products (collectively the “Services” or “Walletika”).
 Before using our Services, please read the Terms of Service (the “Terms”) carefully, along with any other policies or notices on our website or mobile applications.
 
 ## AGREEMENT TO TERMS
@@ -11,7 +11,7 @@ By accessing or using any or all of the Services, you expressly acknowledge that
 If You do not agree to be bound by these Terms or any updates or modifications to these Terms, you may not access or use our Services.
 
 ## PRIVACY POLICY
-- For an explanation of how we collect, use and disclose information from our users, please see our Privacy Policy : https://walletika.github.io/#/documents/user-agreement/privacy-policy.
+- For an explanation of how we collect, use and disclose information from our users, please see our Privacy Policy : https://walletika.io/documents/user-agreement/privacy-policy.
 - You acknowledge and agree that your use of the Services is subject to our Privacy Policy.
 
 ## ELIGIBILITY
@@ -215,4 +215,4 @@ You agree that, except as otherwise expressly provided in these Terms, there sha
 - If you do not agree to the Terms or any update or modification to the Terms, you must cease to access or use our Services. Our Services are evolving over time, we may change or discontinue all or any part of the Services, at any time and without prior notice, and at our sole discretion.
 
 ## QUESTIONS OR COMMENTS
-If you have any questions relating to these Terms, your rights and obligations arising from these Terms and/or your use of Walletika and our Services or any other matter please send us a message on our contact page at support@walletika.com.
+If you have any questions relating to these Terms, your rights and obligations arising from these Terms and/or your use of Walletika and our Services or any other matter please send us a message on our contact page at support@walletika.io.

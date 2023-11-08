@@ -13,7 +13,7 @@
 
 > ![](https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-create-wallet/images/2.jpg)
 
-3. Read the security tips carefully, then click on [“Continue to 2FA Setup”](https://walletika.github.io/#/documents/guide/how-to-setup-2fa) button.
+3. Read the security tips carefully, then click on [“Continue to 2FA Setup”](https://walletika.io/documents/guide/how-to-setup-2fa) button.
 > ![](https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-create-wallet/images/3.jpg)
 
 ## Important Tips:

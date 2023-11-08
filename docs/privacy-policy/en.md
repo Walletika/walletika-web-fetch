@@ -1,4 +1,4 @@
-We at Walletika Ltd. (“Walletika”, “Company”, “we”, “us”, “our”) respect your privacy. This Privacy Policy (“Policy”) explains the privacy practices for the Walletika mobile application (“App”) and Walletika website [walletika.github.io](https://walletika.github.io). It also describes the rights and options available to you with respect to your information.
+We at Walletika Ltd. (“Walletika”, “Company”, “we”, “us”, “our”) respect your privacy. This Privacy Policy (“Policy”) explains the privacy practices for the Walletika mobile application (“App”) and Walletika website [walletika.io](https://walletika.io). It also describes the rights and options available to you with respect to your information.
 
 > This Policy is combined into our Website Terms of Use (the “Terms“) and is a part of them.
 
@@ -19,4 +19,4 @@ We may from time to time invite you to participate in surveys about your experie
 
 We will process your information to provide you with the App features and functionality.
 
-Opt Out. You may also ‘opt-out’ of using your information for Promotional Communications at any time by sending an email to our support service at: support@walletika.com.  By doing so, we will only delete your Information from our mailing list, while we will continue to process your Information submitted to us which is necessary to provide you with our services.
+Opt Out. You may also ‘opt-out’ of using your information for Promotional Communications at any time by sending an email to our support service at: support@walletika.io.  By doing so, we will only delete your Information from our mailing list, while we will continue to process your Information submitted to us which is necessary to provide you with our services.
