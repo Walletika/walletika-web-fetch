@@ -1,9 +1,9 @@
 We at Walletika Ltd. (“Walletika”, “Company”, “we”, “us”, “our”) respect your privacy. This Privacy Policy (“Policy”) explains the privacy practices for the Walletika mobile application (“App”) and Walletika website [walletika.io](https://walletika.io). It also describes the rights and options available to you with respect to your information.
 
 > Last Update: November 14, 2023.\
-> This Policy is combined into our Website Terms of Use (the “Terms“) and is a part of them.
+> This Policy is combined into our Website [Terms of Use](https://walletika.io/documents/user-agreement/terms-of-use) (the “Terms“) and is a part of them.
 
-## Personal Information We Process
+# Personal Information We Process
 ### User Provided Information.
 When you add or create a wallet, we collect your wallet (username, security password, and creation date), RPC provider, transactions details, tokens contracts, and the addresses book you provide in the app. All data is stored locally on your device.
 
@@ -19,7 +19,7 @@ When you contact us with general inquiries through our online contact forms, cha
 We may from time to time invite you to participate in surveys about your experience using the App and the Websites. If you agree to participate in a survey, we will collect the information included in your answers to the survey.
 
 
-### Automatically Collected Information
+### Automatically Collected Information.
 The Application does not collect any information automatically.
 
 
@@ -35,7 +35,7 @@ No, we do not share your information with third parties.
 You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 
-### Data Retention Policy, Managing Your Information
+### Data Retention Policy, Managing Your Information.
 We will retain User Provided data locally on user device for as long as you use the Application and for a reasonable time thereafter.
 
 
