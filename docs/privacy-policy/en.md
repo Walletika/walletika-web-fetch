@@ -1,10 +1,8 @@
 We at Walletika Ltd. (“Walletika”, “Company”, “we”, “us”, “our”) respect your privacy. This Privacy Policy (“Policy”) explains the privacy practices for the Walletika mobile application (“App”) and Walletika website [walletika.io](https://walletika.io). It also describes the rights and options available to you with respect to your information.
-<br>
-<br>
+\n\u00A0\n\n
 > Last Update: November 14, 2023.\
 > This Policy is combined into our Website Terms of Use (the “Terms“) and is a part of them.
-<br>
-<br>
+\n\u00A0\n\n
 ## Personal Information We Process
 ### User Provided Information.
 When you add or create a wallet, we collect your wallet (username, security password, and creation date), RPC provider, transactions details, tokens contracts, and the addresses book you provide in the app. All data is stored locally on your device.
