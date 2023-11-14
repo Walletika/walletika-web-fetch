@@ -7,6 +7,8 @@ We at Walletika Ltd. (“Walletika”, “Company”, “we”, “us”, “our
 ### User Provided Information.
 When you add or create a wallet, we collect your wallet (username, security password, and creation date), RPC provider, transactions details, tokens contracts, and the addresses book you provide in the app. All data is stored locally on your device.
 
+> WE DO NOT STORE ANY OF THE ABOVE DATA ON OUR SERVERS.
+
 You do not have a legal duty to provide the above information. However, without providing the above information, you will not be able to sign up to, and use the full functionalities of the App, and we will not be able to provide you with support services.
 
 ### Support Information.
