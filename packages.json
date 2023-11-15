@@ -6,8 +6,8 @@
     },
     {
         "packageType": "mobile",
-        "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/google_store_disabled.png",
-        "packageURL": null
+        "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/google_store.png",
+        "packageURL": "https://play.google.com/store/apps/details?id=com.walletika"
     },
     {
         "packageType": "mobile",
