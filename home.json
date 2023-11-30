@@ -52,6 +52,10 @@
             "name": "Bitgert"
         },
         {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/aurora.png",
+            "name": "Aurora"
+        },
+        {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/nuls.jpg",
             "name": "NULS"
         },
