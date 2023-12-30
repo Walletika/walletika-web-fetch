@@ -11,15 +11,6 @@
             "twitter": "https://twitter.com/MahmoudKEA",
             "linkedin": "https://www.linkedin.com/in/MahmoudKEA",
             "github": "https://github.com/MahmoudKEA"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/william_picture.jpg",
-            "name": "William Noah",
-            "description": {
-                "en": "Software developer and technical support with extensive experience in blockchain and smart contract development.",
-                "ar": "مطور برامج ودعم فني يتمتع بخبرة واسعة في مجال بلوكتشين وتطوير العقود الذكية."
-            },
-            "telegram": "https://t.me/WilliamDeveloper"
         }
     ],
     "partners": [
