@@ -3,17 +3,17 @@
     {
       "startTime": 1695168000000,
       "endTime": 1696118399000,
-      "tokens": 278297,
-      "sold": 278297,
-      "price": 0.02,
+      "tokens": 1000000,
+      "sold": 1000000,
+      "price": 0.0052,
       "address": "0x64572E19F4CAAf6e04b3033330A1dbF0786b52eb"
     },
     {
       "startTime": 1700006400000,
       "endTime": 1701388799000,
-      "tokens": 621703,
-      "sold": 621703,
-      "price": 0.04,
+      "tokens": 1900000,
+      "sold": 1900000,
+      "price": 0.0052,
       "address": "0x2F82C2a2a62847B1AA84410586e144C95284c223"
     },
     {
@@ -21,7 +21,7 @@
       "endTime": 1706212800000,
       "tokens": 2100000,
       "sold": 228000,
-      "price": 0.045,
+      "price": 0.0052,
       "url": "https://www.pinksale.finance/launchpad/0xd0306d3e1e4067fe8c547f1a6461ee7ecce7720d?chain=BSC"
     }
   ],
