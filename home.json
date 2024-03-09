@@ -59,6 +59,10 @@
             "name": "DEXView"
         },
         {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/EURS.png",
+            "name": "STASIS/EURS"
+        },
+        {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/pancakeswap.png",
             "name": "PancakeSwap"
         },
