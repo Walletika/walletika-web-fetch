@@ -27,14 +27,6 @@
             "name": "Crypto.com"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/gateio.png",
-            "name": "Gate.io"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/okx.jpg",
-            "name": "OKX"
-        },
-        {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/huobi.png",
             "name": "Huobi"
         },
@@ -49,6 +41,32 @@
         {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/nuls.jpg",
             "name": "NULS"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/eurs.png",
+            "name": "STASIS/EURS"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/uniswap.png",
+            "name": "Uniswap"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/coinmarketcap.png",
+            "name": "CoinMarketCap"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/coingecko.png",
+            "name": "CoinGecko"
+        }
+    ],
+    "exchanges": [
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/gateio.png",
+            "name": "Gate.io"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/huobi.png",
+            "name": "Huobi"
         },
         {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/bybit.png",
@@ -67,24 +85,8 @@
             "name": "BitGet"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/eurs.png",
-            "name": "STASIS/EURS"
-        },
-        {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/pancakeswap.png",
             "name": "PancakeSwap"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/uniswap.png",
-            "name": "Uniswap"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/coinmarketcap.png",
-            "name": "CoinMarketCap"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/coingecko.png",
-            "name": "CoinGecko"
         }
     ]
 }
