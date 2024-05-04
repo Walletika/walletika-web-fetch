@@ -51,12 +51,20 @@
             "name": "NULS"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/pinksale.png",
-            "name": "PinkSale"
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/bybit.png",
+            "name": "ByBit"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/dexview.png",
-            "name": "DEXView"
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/kucoin.png",
+            "name": "KuCoin"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/bitmart.png",
+            "name": "BitMart"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/bitget.png",
+            "name": "BitGet"
         },
         {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/eurs.png",
