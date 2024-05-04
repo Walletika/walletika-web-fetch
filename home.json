@@ -31,10 +31,6 @@
             "name": "Crypto.com"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/huobi.png",
-            "name": "Huobi"
-        },
-        {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/bitgert.png",
             "name": "Bitgert"
         },
