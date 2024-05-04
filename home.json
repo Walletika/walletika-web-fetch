@@ -23,6 +23,10 @@
             "name": "Coinbase"
         },
         {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/huobi.png",
+            "name": "Huobi"
+        },
+        {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/Cryptocom.jpg",
             "name": "Crypto.com"
         },
@@ -61,16 +65,16 @@
     ],
     "exchanges": [
         {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/gateio.png",
-            "name": "Gate.io"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/huobi.png",
-            "name": "Huobi"
-        },
-        {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/bybit.png",
             "name": "ByBit"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/okx.png",
+            "name": "OKX"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/gateio.png",
+            "name": "Gate.io"
         },
         {
             "imageURL": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/images/kucoin.png",
