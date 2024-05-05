@@ -32,7 +32,29 @@
       "tokens": 35000000,
       "sold": 0,
       "price": 0.10,
-      "address": "0xb6AF4e79261D12b56a97Fe9298F674B8A8D1D015"
+      "address": "0xb6AF4e79261D12b56a97Fe9298F674B8A8D1D015",
+      "offers": [
+        {
+          "endTime": 1717790400000,
+          "price": 0.10
+        },
+        {
+          "endTime": 1715169600000,
+          "price": 0.1003
+        },
+        {
+          "endTime": 1715256000000,
+          "price": 0.1006
+        },
+        {
+          "endTime": 1715342400000,
+          "price": 0.1009
+        },
+        {
+          "endTime": 1715428800000,
+          "price": 0.1012
+        }
+      ]
     }
   ]
 }
