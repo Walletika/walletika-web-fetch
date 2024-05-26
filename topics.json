@@ -24,6 +24,18 @@
                 "date": 1686930394198
             },
             {
+                "id": "what-is-walletika-ai",
+                "title": {
+                    "en": "What is Walletika AI?",
+                    "ar": "ما هي Walletika AI؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/what-is-walletika-ai/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/what-is-walletika-ai/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
                 "id": "what-is-keyless",
                 "title": {
                     "en": "What is keyless mean?",
