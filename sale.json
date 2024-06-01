@@ -28,13 +28,15 @@
   "presale": [
     {
       "startTime": 1715083200000,
-      "endTime": 1717790400000,
       "tokens": 35000000,
       "sold": 7164920,
       "price": 0.10,
-      "priceBNB": 600,
-      "priceETH": 3800,
-      "address": "0xDdf351e9cE3eDac405f65E4687559E596ECeB89E",
+      "coins": {
+        "usdt": 1,
+        "usdc": 1,
+        "bnb": 600,
+        "eth": 3800
+      },
       "addresses": [
         "0xb6AF4e79261D12b56a97Fe9298F674B8A8D1D015",
         "0x519db26f7aEf41e58957B67aBEf93D9DbaaCc391",
