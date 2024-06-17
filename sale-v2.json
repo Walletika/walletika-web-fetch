@@ -3,6 +3,7 @@
   "tokens": 35000000,
   "sold": 8271320,
   "price": 0.10,
+  "apr": 60,
   "coins": {
     "usdt": 1,
     "usdc": 1,
