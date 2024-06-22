@@ -1,0 +1,50 @@
+[
+    {
+        "title": "About Walletika",
+        "desc": "Everything you might want to know about Walletika.",
+        "articles": [
+            {
+                "id": "what-is-walletika",
+                "title": "What is Walletika?",
+                "content": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/what-is-walletika/en.md"
+            },
+            {
+                "id": "what-is-walletika-ai",
+                "title": "What is Walletika AI?",
+                "content": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/what-is-walletika-ai/en.md"
+            }
+        ]
+    },
+    {
+        "title": "How To ( Guides )",
+        "desc": "Guides for using Walletika.",
+        "articles": [
+            {
+                "id": "how-to-install",
+                "title": "How to install as a hot or cold wallet?",
+                "content": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-install/en.md"
+            },
+            {
+                "id": "how-to-create-wallet",
+                "title": "How to create a wallet or recover an existing wallet?",
+                "content": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/how-to-create-wallet/en.md"
+            }
+        ]
+    },
+    {
+        "title": "Confidentiality and User Agreement",
+        "desc": "Everything about our Privacy Policy and Terms of Service.",
+        "articles": [
+            {
+                "id": "privacy-policy",
+                "title": "Privacy Policy",
+                "content": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/privacy-policy/en.md"
+            },
+            {
+                "id": "terms-of-use",
+                "title": "Terms of Service",
+                "content": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/main/docs/terms-of-use/en.md"
+            }
+        ]
+    }
+]
