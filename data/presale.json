@@ -1,14 +1,14 @@
 {
   "startTime": 1715083200000,
   "tokens": 35000000,
-  "sold": 8847810,
+  "sold": 9057910,
   "price": 0.10,
   "apr": 60,
   "coins": {
     "usdt": 1,
     "usdc": 1,
-    "bnb": 525,
-    "eth": 3150
+    "bnb": 520,
+    "eth": 3100
   },
   "addresses": [
     "0xb6AF4e79261D12b56a97Fe9298F674B8A8D1D015",
